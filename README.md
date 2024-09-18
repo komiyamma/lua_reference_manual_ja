@@ -4,3 +4,15 @@
 ![日本語マニュアル](https://img.shields.io/badge/日本語-マニュアル-6479ff.svg?logo=lua&logoColor=white) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 LUA 5.1～5.3 の間の日本語リファレンスマニュアル
+
+- Lua5.1.html  
+  5.1の日本語マニュアル
+
+- Lua5.2.html  
+  5.2の日本語マニュアル
+
+- Lua5.3.html
+  5.3の日本語マニュアル
+
+- Lua.chm
+  Windows用で、 (Lua 5.1 | Lua 5.2 | Lua 5.3) が１つのファイルとなっているマニュアル
